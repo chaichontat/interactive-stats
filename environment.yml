@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - altair
+  - matplotlib
+  - numpy
+  - seaborn
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - pip
+  - pip:
+      - plotnine
